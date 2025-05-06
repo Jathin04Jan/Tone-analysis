@@ -40,7 +40,7 @@ Tone-analysis/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tone-analysis.git
+git clone https://github.com/Jathin04Jan/Tone-analysis.git
 cd tone-analysis
 ```
 
