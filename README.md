@@ -1,6 +1,6 @@
 # 🎤 Voice Tone Classification using pyAudioAnalysis
 
-This project is a simple yet powerful proof-of-concept (PoC) for classifying human voice tones such as **Happy**, **Sad**, and **Angry** from `.wav` audio files using machine learning (SVM) and the open-source `pyAudioAnalysis` library.
+This project is a simple yet powerful for classifying human voice tones such as **Happy**, **Sad**, and **Angry** from `.wav` audio files using machine learning (SVM) and the open-source `pyAudioAnalysis` library.
 
 ---
 
@@ -185,7 +185,3 @@ rm -rf temp_model* temp_train/ temp_test/
 This project is open-sourced under the MIT License. Feel free to use and modify it for your own tone classification projects.
 
 ---
-
-## 🙋‍♂️ Need Help?
-
-DM me on [LinkedIn](https://www.linkedin.com/) or open an issue here if you're facing any problems getting started.
